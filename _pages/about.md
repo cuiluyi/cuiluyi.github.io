@@ -19,7 +19,8 @@ redirect_from:
 
 **<font color=black>Luyi Cui</font>** (**<font color=black>崔璐毅</font>**) is a first-year Ph.D. candidate (2025-2025) in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), [Institute of Computing Technology](https://www.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/) (中国科学院计算技术研究所), advised by [Yang Feng (冯洋)](https://people.ucas.edu.cn/~yangfeng?language=en). He received his bachelor's degree from [Harbin Institute of Technology](https://www.hit.edu.cn/) in 2025, majoring in cyberspace security (哈尔滨工业大学网络空间安全专业). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interests include nature language processing and <font color=red>large language model-enhanced reinforcement learning</font>. He has published over **XX papers** at the top international AI/NLP conferences such as ACL, NeurIPS, ICLR, AAAI.
+<!-- Large Language Model-Enhanced Reinforcement Learning -->
 
 
 # 🔥 News
