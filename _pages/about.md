@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - [2022]	ICT's Special Scholarship (Xia Peisu Award) (计算所 所长特别奖(夏培肃奖)) [Highest award in ICT/CAS, **<font color=red>Top 2</font>**]
 - [2022]	National Scholarship (国家奖学金)
 - [2021]	**<font color=red>First place</font>** in the streaming track of [AutoSimTrans 2021](https://autosimtrans.github.io/2021/program.html) (organized by Baidu/Huawei/Google)
