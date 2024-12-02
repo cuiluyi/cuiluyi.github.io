@@ -45,7 +45,7 @@ His research interests include nature language processing and <font color=red>la
 
 
 # 🏆 Honors and Awards
-- [2023]	Outstanding Student of Shandong Province (山东省三好学生)
+- [2024]	Outstanding Student of Shandong Province (山东省三好学生)
 - [2023]	National Scholarship (国家奖学金)
 
 # 📖 Educations
